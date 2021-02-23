@@ -1,0 +1,10 @@
+C:\Users\90553\Desktop\udemy\UçakBiletRezervasyonSistemi\UçakBiletRezervasyonSistemi\bin\Debug\UçakBiletRezervasyonSistemi.exe.config
+C:\Users\90553\Desktop\udemy\UçakBiletRezervasyonSistemi\UçakBiletRezervasyonSistemi\bin\Debug\UçakBiletRezervasyonSistemi.exe
+C:\Users\90553\Desktop\udemy\UçakBiletRezervasyonSistemi\UçakBiletRezervasyonSistemi\bin\Debug\UçakBiletRezervasyonSistemi.pdb
+C:\Users\90553\Desktop\udemy\UçakBiletRezervasyonSistemi\UçakBiletRezervasyonSistemi\obj\Debug\UçakBiletRezervasyonSistemi.csprojAssemblyReference.cache
+C:\Users\90553\Desktop\udemy\UçakBiletRezervasyonSistemi\UçakBiletRezervasyonSistemi\obj\Debug\UçakBiletRezervasyonSistemi.Form1.resources
+C:\Users\90553\Desktop\udemy\UçakBiletRezervasyonSistemi\UçakBiletRezervasyonSistemi\obj\Debug\UçakBiletRezervasyonSistemi.Properties.Resources.resources
+C:\Users\90553\Desktop\udemy\UçakBiletRezervasyonSistemi\UçakBiletRezervasyonSistemi\obj\Debug\UçakBiletRezervasyonSistemi.csproj.GenerateResource.cache
+C:\Users\90553\Desktop\udemy\UçakBiletRezervasyonSistemi\UçakBiletRezervasyonSistemi\obj\Debug\UçakBiletRezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\90553\Desktop\udemy\UçakBiletRezervasyonSistemi\UçakBiletRezervasyonSistemi\obj\Debug\UçakBiletRezervasyonSistemi.exe
+C:\Users\90553\Desktop\udemy\UçakBiletRezervasyonSistemi\UçakBiletRezervasyonSistemi\obj\Debug\UçakBiletRezervasyonSistemi.pdb
